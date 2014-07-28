@@ -1,0 +1,132 @@
+
+/* Class = "IBUILabel"; text = "My Friend"; ObjectID = "03o-E9-yQe"; */
+"03o-E9-yQe.text" = "My Friend";
+
+/* Class = "IBUILabel"; text = "You have sent a total of: 29 e-mails to your pen pal"; ObjectID = "1Ap-Og-Ea9"; */
+"1Ap-Og-Ea9.text" = "You have sent a total of: 29 e-mails to your pen pal";
+
+/* Class = "IBUITabBarItem"; title = "Home"; ObjectID = "3Ub-34-c9F"; */
+"3Ub-34-c9F.title" = "Home";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "4jH-gg-qj1"; */
+"4jH-gg-qj1.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Age: "; ObjectID = "5Ej-GU-tw7"; */
+"5Ej-GU-tw7.text" = "Age: ";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "6Dw-JO-N83"; */
+"6Dw-JO-N83.normalTitle" = "Next";
+
+/* Class = "IBUILabel"; text = "My Favorite Dish"; ObjectID = "7O4-kt-8gm"; */
+"7O4-kt-8gm.text" = "My Favorite Dish";
+
+/* Class = "IBUIButton"; normalTitle = "+"; ObjectID = "9Cd-yE-yiL"; */
+"9Cd-yE-yiL.normalTitle" = "+";
+
+/* Class = "IBUILabel"; text = "I Like"; ObjectID = "9mN-Em-clb"; */
+"9mN-Em-clb.text" = "I Like";
+
+/* Class = "IBUILabel"; text = "Only 21 more until your next trophy!"; ObjectID = "AAo-zt-jo6"; */
+"AAo-zt-jo6.text" = "Only 21 more until your next trophy!";
+
+/* Class = "IBUILabel"; text = "I Like"; ObjectID = "ALq-vK-NfL"; */
+"ALq-vK-NfL.text" = "I Like";
+
+/* Class = "IBUIButton"; normalTitle = "Send Post Card"; ObjectID = "Bzu-hj-Hy6"; */
+"Bzu-hj-Hy6.normalTitle" = "Send Post Card";
+
+/* Class = "IBUILabel"; text = "My Profile"; ObjectID = "FWf-sC-O9y"; */
+"FWf-sC-O9y.text" = "My Profile";
+
+/* Class = "IBUILabel"; text = "Ryan C."; ObjectID = "Hwq-Vx-fKE"; */
+"Hwq-Vx-fKE.text" = "Ryan C.";
+
+/* Class = "IBUILabel"; text = "Ryan C."; ObjectID = "JLq-wD-CiI"; */
+"JLq-wD-CiI.text" = "Ryan C.";
+
+/* Class = "IBUILabel"; text = "Heart This!"; ObjectID = "JnG-EN-fea"; */
+"JnG-EN-fea.text" = "Heart This!";
+
+/* Class = "IBUITextField"; placeholder = "Enter Your Email..."; ObjectID = "PzS-pe-1vU"; */
+"PzS-pe-1vU.placeholder" = "Enter Your Email...";
+
+/* Class = "IBUILabel"; text = "My Friend's Interests"; ObjectID = "Ud0-ol-QlN"; */
+"Ud0-ol-QlN.text" = "My Friend's Interests";
+
+/* Class = "IBUIButton"; normalTitle = "Send E-Card"; ObjectID = "VHF-N5-UKT"; */
+"VHF-N5-UKT.normalTitle" = "Send E-Card";
+
+/* Class = "IBUITextField"; placeholder = "Enter Your Password..."; ObjectID = "WfK-LS-Jbd"; */
+"WfK-LS-Jbd.placeholder" = "Enter Your Password...";
+
+/* Class = "IBUIButton"; normalTitle = "Log In"; ObjectID = "Xyc-sW-lzL"; */
+"Xyc-sW-lzL.normalTitle" = "Log In";
+
+/* Class = "IBUIButton"; normalTitle = "+"; ObjectID = "Yev-co-tbo"; */
+"Yev-co-tbo.normalTitle" = "+";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "Zio-rZ-OFE"; */
+"Zio-rZ-OFE.normalTitle" = "Next";
+
+/* Class = "IBUIButton"; normalTitle = "See Gallery"; ObjectID = "cDG-vd-xZz"; */
+"cDG-vd-xZz.normalTitle" = "See Gallery";
+
+/* Class = "IBUILabel"; text = "Ryan Chan"; ObjectID = "deH-zS-i6V"; */
+"deH-zS-i6V.text" = "Ryan Chan";
+
+/* Class = "IBUIButton"; normalTitle = "Send E-Card"; ObjectID = "eYG-0i-vbG"; */
+"eYG-0i-vbG.normalTitle" = "Send E-Card";
+
+/* Class = "IBUIButton"; normalTitle = "+"; ObjectID = "f0k-Si-kEk"; */
+"f0k-Si-kEk.normalTitle" = "+";
+
+/* Class = "IBUILabel"; text = "My School"; ObjectID = "fEA-y1-3Zv"; */
+"fEA-y1-3Zv.text" = "My School";
+
+/* Class = "IBUITabBarItem"; title = "Profile"; ObjectID = "fQk-4a-t8C"; */
+"fQk-4a-t8C.title" = "Profile";
+
+/* Class = "IBUILabel"; text = "My Favorite Scene"; ObjectID = "hZd-Gy-ZUg"; */
+"hZd-Gy-ZUg.text" = "My Favorite Scene";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "hwM-RO-egG"; */
+"hwM-RO-egG.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Send Post Card"; ObjectID = "iET-Rq-Df8"; */
+"iET-Rq-Df8.normalTitle" = "Send Post Card";
+
+/* Class = "IBUIButton"; normalTitle = "+"; ObjectID = "ltG-ZP-o0C"; */
+"ltG-ZP-o0C.normalTitle" = "+";
+
+/* Class = "IBUILabel"; text = "Congratulations Ryan, you have earned a silver trophy!"; ObjectID = "nDn-ZV-NoX"; */
+"nDn-ZV-NoX.text" = "Congratulations Ryan, you have earned a silver trophy!";
+
+/* Class = "IBUIButton"; normalTitle = "+"; ObjectID = "nLs-WX-i1U"; */
+"nLs-WX-i1U.normalTitle" = "+";
+
+/* Class = "IBUILabel"; text = "My Favorite Song"; ObjectID = "ocE-H5-3p1"; */
+"ocE-H5-3p1.text" = "My Favorite Song";
+
+/* Class = "IBUITabBarItem"; title = "PenPal"; ObjectID = "pug-fz-Mjt"; */
+"pug-fz-Mjt.title" = "PenPal";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "rZe-lT-NjJ"; */
+"rZe-lT-NjJ.text" = "Label";
+
+/* Class = "IBUILabel"; text = "My Country"; ObjectID = "uRz-1L-22V"; */
+"uRz-1L-22V.text" = "My Country";
+
+/* Class = "IBUILabel"; text = "My School"; ObjectID = "vLl-rN-wWN"; */
+"vLl-rN-wWN.text" = "My School";
+
+/* Class = "IBUILabel"; text = "Name :"; ObjectID = "xQg-He-eH1"; */
+"xQg-He-eH1.text" = "Name :";
+
+/* Class = "IBUILabel"; text = "My Country"; ObjectID = "y9c-VM-ml1"; */
+"y9c-VM-ml1.text" = "My Country";
+
+/* Class = "IBUILabel"; text = "Kalimah Priforce"; ObjectID = "ylD-lX-Aqv"; */
+"ylD-lX-Aqv.text" = "Kalimah Priforce";
+
+/* Class = "IBUIButton"; normalTitle = "+"; ObjectID = "zFB-mk-QEL"; */
+"zFB-mk-QEL.normalTitle" = "+";
